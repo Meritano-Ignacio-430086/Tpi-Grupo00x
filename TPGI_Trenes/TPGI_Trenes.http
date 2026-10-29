@@ -1,6 +1,0 @@
-@TPGI_Trenes_HostAddress = http://localhost:5128
-
-GET {{TPGI_Trenes_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
